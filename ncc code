@@ -1,0 +1,239 @@
+<html>
+<head>
+    
+    <title>Ncc reports</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+        #ncctopic1{
+          width: 100%;
+          padding: 50px 0;
+          text-align: center;
+          background-color: rgb(181, 232, 249);
+          margin-top: 20px;
+          border-color: darkorange;
+        
+          border-style: solid;
+        }
+        #ncctopic2{
+          width: 100%;
+          padding: 50px 0;
+          text-align: center;
+          background-color: lightblue;
+          margin-top: 20px;
+          border-color: darkorange;
+          border-style: solid
+        }
+
+        #ncctopic3{
+          width: 100%;
+          padding: 50px 0;
+          text-align: center;
+          background-color: lightblue;
+          margin-top: 20px;
+          border-color: darkorange;
+          border-style: solid
+        }
+
+        #ncctopic4{
+          width: 100%;
+          padding: 50px 0;
+          text-align: center;
+          background-color: lightblue;
+          margin-top: 20px;
+          border-color: darkorange;
+          border-style: solid
+        }
+
+
+        </style>
+</head>
+<body>
+    <br>
+    <div class="container" style="background-color:maroon; padding-top: 20px; background-position-y: center;">
+        <h1 style="padding-bottom: 20px;text-align: center; color: darkorange; border-color:">Ncc reports</h1>
+    </div>
+    <br>
+<div class="container" style="background-color: maroon; color:darkorange ;padding: 10px;max-width: 1100px;">
+    <h1 >ncc topic 1</h1>
+<button onclick="nccfunction1()" class="p-2 bd-highlight" style="padding-right:10px;margin-left: auto;" >ncc topic 1</button>
+
+
+<div class="container" style=" color:rgb(10, 7, 2);border-color: darkorange ;text-align: left;" id=ncctopic1>
+    <ul>
+    The D.A.V NCC company Junior Wing under the control of 1(Tamil Nadu) Battalion NCC , 
+    Madras – A Group was started in 1978. The objective of National Cadet Corps is to develop character, comradeship, and capacity for the leadership among youth in India. The motto of NCC is “Unity and Discipline.“ In a nutshell, the values of NCC are as follows: “Sense of patriotic commitment, respect for diversities, commitment to learn and adhere to norms and values, understanding the value of a just and impartial exercise of authority, ability to participate in community development, healthy lifestyle, being sensitive to the needs of the poor “.
+     <br><br>
+    The National Cadet Corps (NCC) is the youth wing of the Indian Armed Forces. DAV Boys Senior Secondary School, Chennai gives eminence to NCC. Our School Management, Secretary, Director, Principal & ANO motivates the students to be part of NCC from 8th grade onwards.
+     <br><br>
+     We have regular weekly training in NCC. The Cadets are given basic military training in small arms and drill. 
+     <br><br>
+    Regular visits by NCC Officers motivate the students to participate in NCC camps being held at various places across the country.
+     <br><br>
+    This year commencing from April 2022, we had NCC camps held at various places in and around TamilNadu..
+</ul>
+    
+</div>
+</div>
+<br>
+<script>
+function nccfunction1() {
+  var x = document.getElementById("ncctopic1")
+ 
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+<!--NCC PART 1 ENDS-->
+
+
+<div class="container" style="background-color: maroon; color:darkorange ;padding: 10px;max-width: 1100px;">
+    <h1 >ncc topic 2</h1>
+<button onclick="nccfunction2()" class="p-2 bd-highlight" style="padding-right:10px;margin-left: auto; ;" >ncc topic 2</button>
+
+
+<div class="container" style=" color:rgb(10, 7, 2);border-color: darkorange ;text-align: left;" id=ncctopic2>
+    <ul>
+    The Eighth International Day of Yoga was observed in our school as ' Yogathon under the guidance of 1 (TN) BN NCC on 21 June 2022		
+ It commenced with 160 NCC Cadets from 5 different schools and 2 colleges performing     Yogasanas from 6.00 a.m. to 8.00 a.m.
+ <br><br>
+ <b>Thal Sainik Camp (TSC):</b>
+ <br>
+DAV Gopalapuram NCC cadets participated in THAL SAINIK CAMP(TSC) selection held at Dhanalakshmi Engineering College from 25th April to 4th May 2022.
+ <br>
+(i)SGT ADITHYA RAMANATHAN<br>
+(ii) SGT SHRAVAN C.M<br>
+(iii) L/CPL THAMILMARAN.C. S<br>
+(iv) CDT MANUSH<br>
+(v) CDT DEEPESH KARTHICK.B<br>
+<br>
+The above mentioned 5 cadets along with the Associate NCC Officer (ANO) participated and gained more insights about NCC at THAL SAINIK CAMP(TSC).
+ <br><br>
+The next camp was a 10 day camp held at VIT college, Vellore. Camp was held between May 9th and May 18th 2022. Training in Rifle shooting was given as part of this NCC training. 
+ <br><br>
+Third & fourth NCC camp were held at SRM college, Kattankulathur from May 3rd week to June 2nd week.
+ <br><br>
+SGT ADITHYA RAMANATHAN- Achievements in THAL SAINIK CAMP(TSC):<br>
+He completed the TSC LAUNCH CAMP which was held at Sai Ram Engineering College, West Tambaram- Chennai
+He attended state level firing competition and secured 3rd place in Snap Shooting in TSC IGC Inter Group Competition.
+</ul>
+ 
+     
+</div>
+</div>
+<br>
+<script>
+function nccfunction2() {
+  var x = document.getElementById("ncctopic2");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+
+<!--NCC PART 2 ENDS-->
+
+
+
+<div class="container" style="background-color: maroon; color:darkorange ;padding: 10px;max-width: 1100px;">
+    <h1 >ncc topic 3</h1>
+<button onclick="nccfunction3()" class="p-2 bd-highlight" style="padding-right:10px;margin-left: auto; ;" >ncc topic 3</button>
+
+
+<div class="container" style=" color:rgb(10, 7, 2);border-color: darkorange ;text-align: left;" id=ncctopic3>
+    <ul>
+    <b>REPUBLIC DAY CAMP(RDC):</b>
+ <br>
+RDC - REPUBLIC DAY CAMP is the most glorious camp for a cadet in NCC. In-fact, representing at NATIONAL level itself give you enough power & confidence. The cadets are selected through a tough selection process. The cadets attending the camp participate in several activities like cultural, National Integration Awareness Programme and Institutional Training Competitions. The camp is visited by many dignitaries including the Vice President of India, Raksha Mantri, Raksha Rajya Mantri, Chief Minister of Delhi and the Chiefs of the Army, Navy and Air Force. The Aim of the Republic Day Camp is to enhance the self-confidence of cadets, deepen their value systems and provide an exposure to the rich culture and traditions of our nation. The camp portrays a reflection of “Mini India”. The selection for RDC starts as early as August or sometimes even earlier which takes place in various stages.
+ <br><br>
+First round of RDC selection: 18 cadets attended the selection at Dr. AMBEDKAR LAW COLLEGE conducted by 1TN BATTERY NCC.
+<br><br>
+Second round of RDC selection: 11 cadets attended the selection at CHENNAI INSTITUTE OF TECHNOLOGY, KUNDRATHUR conducted by 1(TN)R&N
+<br><br>
+
+Third round of CATC CUM DTE TSC(1)AND RDC (1) camp : 5 cadets attended the selection at CHENNAI INSTITUTE OF TECHNOLOGY, KUNDRATHUR  conducted by 1(TN)R&N.
+<br><br>
+Fourth round of CATC CUM DTE TSC(2)AND RDC (2) : 3 cadets attended the camp at DHANALAKSHMI COLLEGE OF ENGINEERING conducted by  1(TN)SIG COY NCC and 1(TN)GIRLD BN NCC 
+<br><br>
+Fifth round and sixth round of CATC CUM DTE TSC(3)AND RDC (3) – 3 cadets attended the camp at DHANALAKSHMI COLLEGE OF ENGINEERING conducted by 1(TN)SIG COY NCC and 1(TN)GIRLD BN NCC 
+<br><br>
+Seventh round CATC CUM DTE TSC (4)AND RDC (4)-- 3 cadets attended the camp at DHANALAKSHMI COLLEGE OF ENGINEERING conducted by1(TN) MED UNIT NCC 
+<br><br>
+
+Eight round CATC CUM GP RDC(B&G) LAUNCH CAMP – 3 cadets attended the camp at ST PAUL' HSS conducted by 1(TN) BN NCC (MADRAS 'A' GP).
+<br><br>
+Ninth round CATC CUM IGC (RDC)<br>
+1) SGT SHRAVAN.C.M (Best Cadet)<br>
+2) CPL THANUSH J.S (Best Cadet)<br>
+3) CPL KRITHIK BALAJI.J (cultural – keyboard and violin)
+<br><br>
+After the above-mentioned camps, the selected cadets attended IGC RDC intergroup competition in NTA IDAYAPATTI under the AGIES OF NCC GP.
+After this final selection, the successful cadets will attend the next level of RDC.
+</ul>
+</div>
+</div>
+<br>
+<script>
+function nccfunction3() {
+  var x = document.getElementById("ncctopic3");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+
+
+<!--NCC PART 3 ENDS-->
+
+
+
+<div class="container" style="background-color: maroon; color:darkorange ;padding: 10px;max-width: 1100px;">
+    <h1 >ncc topic 4</h1>
+<button onclick="nccfunction4()" class="p-2 bd-highlight" style="padding-right:10px;margin-left: auto; ;" >ncc topic 4</button>
+
+
+<div class="container" style=" color:rgb(10, 7, 2);border-color: darkorange ;text-align: left;" id=ncctopic4>
+    <ul>
+      <b>SHIVAJI TREKKING CAMP:</b> <br>
+The following cadets have been selected for SHIVAJI TREKKING CAMP, KOLHAPUR, MAHARASHTRA that is going to be held in the month November 2022.<br>
+   1) CDT M. ADHITYA<br>
+   2) CDT SENTHIL MEIYYAPPAN<br>
+   3) CDT CYRUS KRISHNAMOORTHY<br>
+<br><br>
+<b>ROCK CLIMBING CAMP:</b><br>
+CDT ANSH VACHHER
+<br><br>
+<b>SPORTS DAY PILOTING:</b><br>
+SGT ADITHYA RAMANATHAN and CDT M. ADHITYA have honoured the chief guests of the  Annual Sports Athletic Meet and Independence Day , DAV Group Of Schools,by Piloting the chief guests.
+<br><br>
+                    <b>REVERSE RUN EVENT:</b><br>
+1st Reverse Run in South India to create awareness on plastic pollution was held in Elliot’s Beach, Besant Nagar, Chennai on 02/07/2022 in which 10 NCC cadets participated. <br>
+From our school, 10 NCC cadets participated in 1st Reverse Run for 300m to celebrate Plastic Bag Free Day on 2nd July 2022 Saturday at Elliot's Beach, Besant Nagar. Cadets received Medal, participation certificate and cloth Bag for the Awareness Reverse Run.
+</ul>
+
+
+
+</div>
+</div>
+<br>
+<script>
+function nccfunction4() {
+  var x = document.getElementById("ncctopic4");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+
